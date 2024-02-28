@@ -1,0 +1,245 @@
+.menu {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+.logo { 
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+.slide {
+    background: url('../images/slider.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 480px;
+}
+
+.slide h1 {
+    padding: 170px;
+    color: rgb(109, 109, 109);
+}
+
+.space {
+    margin-top: 80px;
+}
+
+.menu ul {
+    list-style-type: none;
+    width: 500px;
+    padding: 25px 40px;
+}
+
+.menu ul li {
+    height: 50px;
+    width: 70px;
+    float: left;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.logo-img{
+    width: 90px;
+    padding-top: 5px;
+}
+
+ /********* slider items START *********/ 
+
+.left-item {
+    background: url('../images/left-item.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 90%;
+    padding: 20px;
+    margin: 8px;
+    height: 296px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.left-item h2 {
+    font-size: 22px;
+}
+
+.left-item h3 {
+    font-size: 14px;
+}
+
+.right-item-1 {
+    background: url('../images/item1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100%;
+    padding: 20px;
+    margin: 8px;
+    height: 140px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+
+.right-item-2 {
+    background: url('../images/item1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100%;
+    padding: 20px;
+    margin: 8px;
+    height: 140px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.right-item-3 {
+    background: url('../images/item1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100%;
+    padding: 20px;
+    margin: 8px;
+    height: 140px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.right-item-4 {
+    background: url('../images/item1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100%;
+    padding: 20px;
+    margin: 8px;
+    height: 140px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.right-item-1 h2 , .right-item-2 h2 , .right-item-3 h2 , .right-item-4 h2{
+    font-size: 22px;
+}
+
+.right-item-1 h3 , .right-item-2 h3  , .right-item-3 h3  , .right-item-4 h3  {
+    font-size: 14px;
+}
+
+.left-item a , .right-item-1 a , .right-item-2 a , .right-item-3 a , .right-item-4 a {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(221, 0, 0);
+    text-decoration: none;
+}
+
+ /********* slider items END *********/ 
+
+.title-page {
+    text-align: center;
+    margin: 50px auto;
+}
+
+/*********** product START **********/
+.product-items {
+    width: 96%;
+    height: 94%;
+    background-color: rgb(233, 233, 233) ;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.product-items h4 {
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.product-items-items {
+    font-size: 16px;
+    color: rgb(221, 0, 0);
+    margin: 0px;
+}
+
+.product-items img {
+    width: 110px;
+}
+
+.padding-fixer {
+    padding: 0% !important;
+}
+/*********** product END **********/
+
+
+/*********** news START **********/
+.news-card {
+    margin-bottom: 30%;
+
+}
+.news-items1 {
+    background: url('../images/news1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin: 8px;
+    height: 160px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.news-items2 {
+    background: url('../images/news1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin: 8px;
+    height: 160px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+
+.news-items3 {
+    background: url('../images/news1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin: 8px;
+    height: 160px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(109, 109, 109);
+    border-radius: 10px;
+}
+.news-items1 h4 , .news-items2 h4 , .news-items2 h4 , .news-items3 h4 {
+    font-size: 20px;
+    padding-top: 160px;
+    
+}
+/*********** news END **********/
+
+
+/********** footer START **********/
+.footer {
+    border-top: 1.5px solid rgb(190, 190, 190);
+}
+
+.footer-inner {
+    height: 50px;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.footer-inner span {
+    padding: 15px 0px;
+    font-size: 15px;
+    
+}
+/*********** footer END **********/
