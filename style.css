@@ -1,0 +1,30 @@
+.dark-table {
+    background-color: #3B3F54;
+    border-collapse: collapse;
+  }
+  
+  .dark-table th {
+    background-color: #5C0011;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #3B3F54;
+  }
+  
+  .dark-table td {
+    background-color: #2F4F7F;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #3B3F54;
+  }
+  
+  .dark-table th, .dark-table td {
+    text-align: left;
+  }
+  
+  .dark-table th:first-child, .dark-table td:first-child {
+    border-left: none;
+  }
+  
+  .dark-table th:last-child, .dark-table td:last-child {
+    border-right: none;
+  }
