@@ -3,5 +3,4 @@
 + ***This template is written in HTML, CSS & BOOTSTRAP.***
 
 ## Images
-![toy-shop-template-preview](https://github.com/Yasharbadri/TOY-SHOP/assets/121640772/3ed5b3cf-7042-4b73-b2c0-727a31675648)
-
+![gameshop-preview](https://github.com/user-attachments/assets/95f23fc0-1ec8-49e9-a4c3-3f9cbaed6012)
